@@ -37,9 +37,11 @@ Em seguida, temos o 'Catálogo' que é responsável por apresentar as boxes que 
 
 Para desenvolver o Nutribox, utilizamos uma combinação de tecnologias que garantem eficiência, segurança e uma excelente experiência do usuário. 
 
-No backend, usamos o Java com Spring Tools, que oferece robustez e escalabilidade. O MySQL gerencia nosso banco de dados, garantindo que todas as informações sejam armazenadas de maneira segura e eficiente. 
+No backend, usamos o Java com Spring Boot, que oferece robustez e escalabilidade. O MySQL gerencia nosso banco de dados, garantindo que todas as informações sejam armazenadas de maneira segura e eficiente. 
 
-No frontend, utilizamos React, TypeScript e JavaScript para criar uma interface dinâmica e interativa, enquanto o CSS + Tailwind cuidam do design visual, tornando a plataforma atraente e fácil de usar.
+No frontend, utilizamos React e TypeScript para criar uma interface dinâmica e interativa, enquanto o CSS + Tailwind cuidam do design visual, tornando a plataforma atraente e fácil de usar.
+ 
+Para o desenvolvimento, foi utilizado o Git para o versionamento de código e a metodologia ágil Scrum + Trello para organizar as tarefas do projeto designadas para cada integrante.
 ## 🌏 Impacto Futuro
 
 ### O que planejamos para Nutribox?
